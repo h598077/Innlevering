@@ -1,5 +1,5 @@
 package Dat100;
-import static java.lang.Integer.parseInt; 
+import static java.lang.Integer.parseInt;  
 import static javax.swing.JOptionPane.*;
 import static java.lang.Math.*;
 public class O2 {
@@ -11,7 +11,7 @@ public class O2 {
 			int poeng = parseInt(txt);
 
 			if (poeng <= 100 && poeng >= 90 ) {
-				System.out.println("Karakter A"); // A
+				System.out.println("Karakter A"); // A 
 			} else if (poeng <= 89 && poeng >= 80) {
 				System.out.println("Karakter B"); // B
 			} else if (poeng <= 79 && poeng >= 60) {

@@ -13,7 +13,7 @@ public class O3 {
 			int n = parseInt(txt); 
 			if (n<=0) {
 				System.out.println("n kan ikke vere 0");
-			} else {
+			} else { 
 				System.out.println(fakultet(n));
 			}
 	    
