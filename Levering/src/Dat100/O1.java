@@ -1,11 +1,11 @@
 package Dat100;
-import static java.lang.Integer.*; 
+import static java.lang.Integer.*;  
 import static javax.swing.JOptionPane.*;
 import static java.lang.Math.*;
 import static javax.swing.JOptionPane.showInputDialog;
 
 public class O1 {
-
+//test
 	public static void main(String[] args) {
 		double trinn0 =0;
 		double trinn1 =190349; 
